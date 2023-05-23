@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'loopda'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8231400C71C64D849885A5654E4243EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0523D5B9E5A745808D6370C31737DA8F }}
           package: .
